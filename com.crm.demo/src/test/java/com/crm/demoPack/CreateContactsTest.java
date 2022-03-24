@@ -6,7 +6,7 @@ public class CreateContactsTest {
 	@Test
 	public void createCont() {
 		System.out.println("Create Contacts");
-		
+		System.out.println("create");
 		
 		
 		
